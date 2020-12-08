@@ -1,0 +1,12 @@
+C:\Users\User\RiderProjects\DynamicArray\DynamicArray\bin\Debug\DynamicArray.exe
+C:\Users\User\RiderProjects\DynamicArray\DynamicArray\bin\Debug\DynamicArray.pdb
+C:\Users\User\RiderProjects\DynamicArray\DynamicArray\obj\Debug\DynamicArray.csprojAssemblyReference.cache
+C:\Users\User\RiderProjects\DynamicArray\DynamicArray\obj\Debug\DynamicArray.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\DynamicArray\DynamicArray\obj\Debug\DynamicArray.exe
+C:\Users\User\RiderProjects\DynamicArray\DynamicArray\obj\Debug\DynamicArray.pdb
+C:\Users\Acer\Downloads\DynamicArray\DynamicArray\bin\Debug\DynamicArray.exe
+C:\Users\Acer\Downloads\DynamicArray\DynamicArray\bin\Debug\DynamicArray.pdb
+C:\Users\Acer\Downloads\DynamicArray\DynamicArray\obj\Debug\DynamicArray.csprojAssemblyReference.cache
+C:\Users\Acer\Downloads\DynamicArray\DynamicArray\obj\Debug\DynamicArray.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\DynamicArray\DynamicArray\obj\Debug\DynamicArray.exe
+C:\Users\Acer\Downloads\DynamicArray\DynamicArray\obj\Debug\DynamicArray.pdb
